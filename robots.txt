@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://bo-peng.github.io/sitemap.xml 
