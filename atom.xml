@@ -4,7 +4,7 @@
   <title><![CDATA[My First Octopress Blog]]></title>
   <link href="http://bo-peng.github.io/atom.xml" rel="self"/>
   <link href="http://bo-peng.github.io/"/>
-  <updated>2015-01-10T19:04:14-05:00</updated>
+  <updated>2015-01-10T19:05:58-05:00</updated>
   <id>http://bo-peng.github.io/</id>
   <author>
     <name><![CDATA[Bo Peng]]></name>
@@ -12,18 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Very First Blog Post]]></title>
-    <link href="http://bo-peng.github.io/blog/2015/01/10/very-first-blog-post/"/>
-    <updated>2015-01-10T18:58:54-05:00</updated>
-    <id>http://bo-peng.github.io/blog/2015/01/10/very-first-blog-post</id>
-    <content type="html"><![CDATA[<p><strong>this is in bold</strong></p>
-
-<h1>This is a very big header.</h1>
-
-<p>This is just text. More text.</p>
-]]></content>
-  </entry>
   
 </feed>
