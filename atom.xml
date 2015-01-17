@@ -4,7 +4,7 @@
   <title><![CDATA[My First Octopress Blog]]></title>
   <link href="http://bo-peng.github.io/atom.xml" rel="self"/>
   <link href="http://bo-peng.github.io/"/>
-  <updated>2015-01-16T20:11:56-05:00</updated>
+  <updated>2015-01-16T20:19:46-05:00</updated>
   <id>http://bo-peng.github.io/</id>
   <author>
     <name><![CDATA[Bo Peng]]></name>
@@ -47,7 +47,7 @@ In&nbsp;[4]:
 
 </div>
 </div>
-</div>
+
 
 <div class="output_wrapper">
 <div class="output">
@@ -67,8 +67,6 @@ In&nbsp;[4]:
 </div>
 
 </div>
-
-
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
@@ -103,8 +101,6 @@ In&nbsp;[2]:
 </div>
 
 </div>
-
-
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
@@ -140,8 +136,6 @@ In&nbsp;[12]:
 </div>
 
 </div>
-
-
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
@@ -181,8 +175,6 @@ second attempt [10, 20, 30, 40, 40]
 </div>
 
 </div>
-
-
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
@@ -221,8 +213,6 @@ In&nbsp;[26]:
 </div>
 
 </div>
-
-
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
@@ -290,8 +280,6 @@ i 8
 </div>
 
 </div>
-
-
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
@@ -307,10 +295,8 @@ In&nbsp;[]:
 </div>
 
 </div>
+    </div>
 
-
-<pre><code>&lt;/div&gt;
-</code></pre>
 
 <p>  </div>
 </body>
